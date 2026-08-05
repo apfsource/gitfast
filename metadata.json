@@ -1,0 +1,6 @@
+{
+  "name": "GitHub URL CDN Converter",
+  "description": "Convert GitHub file URLs to fast CDN links (jsDelivr, Statically, Raw GitHub, GitHub Pages, Githack, GitMirror) with 1-click copy, QR code, and HTML/MD embed generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
